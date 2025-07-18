@@ -12,7 +12,7 @@ This project analyzes the motion of a simple pendulum using real or simulated ex
   - Data loading
   - Curve fitting with `scipy.optimize.curve_fit`
   - Plotting using `matplotlib`
-- `pendulum_simulation.py` *(optional)* — 3D VPython simulation of pendulum motion
+
 
 ---
 
